@@ -39,21 +39,41 @@ Your AI-powered conversational partner for improving fluency.
 - **All-in-One Solution**: From learning to writing and conversing, we've got it all.  
 - **User-Friendly Interface**: Designed for learners of all levels.  
 
----
+
 
 ## 🛠️ **Tech Stack Used**
+ 
+The following technologies and libraries were used in the development of this application:
 
-| **Technology** | **Purpose** |  
-|-----------------|-------------|  
-| **Python**      | Core programming language.  
-| **Streamlit**   | Frontend framework for UI.  
-| **LangChain**   | Managing AI and language chains.  
-| **Whisper**     | Speech-to-text processing.  
-| **gtts**        | Text-to-speech functionality.  
-| **Ollama**      | AI hosting and inferencing.  
-| **LLama 3.2**   | Core LLM for language processing.  
+[Python](https://www.python.org/): Programming language used for the implementation.
+
+[Langchain](https://www.langchain.com/): LangChain is a framework designed to simplify the creation of applications using large language models.
+
+[Ollama](https://ollama.com/): It provides a simple API for creating, running, and managing models, as well as a library of pre-built models that can be easily used in a
+variety of applications
+
+Model Used: [Llama-3.2](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct) collection of multilingual large language models (LLMs) is a collection of pretrained and instruction-tuned generative models in 1B and 3B sizes (text in/text out). The Llama 3.2 instruction-tuned text only models are optimized for multilingual dialogue use cases, including agentic retrieval and summarization tasks.
+
+[Whisper](https://github.com/openai/whisper) is a general-purpose speech recognition model. It is trained on a large dataset of diverse audio and is also a multitasking model that can perform multilingual speech recognition, speech translation, and language identification.
+
+[Gtts](https://pypi.org/project/gTTS/) gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. Write spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation, or stdout.
+
+[Streamlit](https://streamlit.io/) Streamlit lets you transform Python scripts into interactive web apps in minutes, instead of weeks. Build dashboards, generate reports, or create chat apps.
 
 ---
+
+## 🎨 **User Interface Demo**
+
+**Here’s a sneak peek of Linguaverse in action:**
+
+
+## 🚧 **Development Updates**
+
+- The **SpeakEasy** feature is under active development to bring even more robust language learning experiences.  
+- The project will be deployed soon, and the **entire codebase** will be shared on GitHub for open collaboration.  
+
+---
+
 
 ## 🚀 **Getting Started**
 
@@ -106,9 +126,6 @@ Your AI-powered conversational partner for improving fluency.
 2. Practice dialogues with dynamic AI prompts.
 
 
-## 🎨 **User Interface Demo**
-
-**Here’s a sneak peek of Linguaverse in action:**
 
 ## 🤝 **Contributing**
 

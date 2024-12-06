@@ -18,7 +18,7 @@ Dive into the future of learning with **Linguaverse**!
 
 #### 🏫 **SpeakEasy**
 Your personal AI voice tutor for language learning.  
-- 🌍 **Multilingual Support**: Learn from **9 supported languages**: English, French, German, Spanish, Italian, Portuguese, Russian, Chinese, and Japanese.  
+- 🌍 **Multilingual Support**: Learn from **9 supported languages**: English, French, German, Spanish, Italian, Portuguese, Hindi and Thai.  
 - 🎧 **Interactive Lessons**: Immersive, scenario-based learning for real-world application.  
 - 🗣️ **Real-time Feedback**: Perfect your pronunciation and fluency effortlessly.  
 

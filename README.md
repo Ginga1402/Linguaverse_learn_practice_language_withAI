@@ -64,8 +64,29 @@ Model Used: [Llama-3.2](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
 
 ## 🎨 **User Interface Demo**
 
-**Here’s a sneak peek of Linguaverse in action:**
+A glimpse into Linguaverse intuitive interface, an AI Companion for Mastering Language and Communication!
 
+#### 1. Home Screen 
+
+![Home](https://github.com/user-attachments/assets/9ab71398-48b0-4858-8cdc-8db1ed061ac3)
+
+
+#### 2. SpeakEasy
+
+![speakeasy](https://github.com/user-attachments/assets/700ed6ed-c7c9-4a9d-9bcf-4d5c128b0439)
+
+#### 3. WriteWiz
+
+![writewiz](https://github.com/user-attachments/assets/e1454a06-9ee0-4fd3-9e6c-572bc23f2250)
+
+
+#### 4. ConvoMate
+
+
+![convo](https://github.com/user-attachments/assets/e8ce9217-6508-450f-a436-c01adfbec22b)
+
+
+**Here’s a sneak peek of Linguaverse in action:**
 
 ## 🚧 **Development Updates**
 

@@ -88,6 +88,8 @@ A glimpse into Linguaverse intuitive interface, an AI Companion for Mastering La
 
 **Here’s a sneak peek of Linguaverse in action:**
 
+https://github.com/user-attachments/assets/93ea9e05-91af-4cba-9c92-3d74e81f1e59
+
 ## 🚧 **Development Updates**
 
 - The **SpeakEasy** feature is under active development to bring even more robust language learning experiences.  
